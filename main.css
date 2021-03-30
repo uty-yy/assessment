@@ -1,0 +1,30 @@
+.div1{
+    background-image: url(./images/thierry-meier-PKEPAeMBOIU-unsplash.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+h3{
+    padding-top: 50px;
+}
+.inputt{
+    border-radius: 5px;
+}
+@media(max-width:375px){
+    
+}
+.jo{
+    background-image: url(./images/thierry-meier-PKEPAeMBOIU-unsplash.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+.last{
+    padding-top: 60px;
+}
+a{
+    text-decoration: none;
+}
+.pic{
+    border-radius: 100%;
+}
